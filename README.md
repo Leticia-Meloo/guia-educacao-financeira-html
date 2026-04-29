@@ -1,68 +1,81 @@
-# guia-educacao-financeira-html
-Guia de educação financeira desenvolvido com HTML como parte do Bootcamp Santander 2025 - Frontend
 
-# Guia Básico de Educação Financeira
+# 💰 Guia Básico de Educação Financeira
 
-Este projeto foi desenvolvido como parte de um desafio prático do Bootcamp Santander 2025 - Frontend, com o objetivo de aplicar conceitos fundamentais de HTML e estruturação de páginas web.
+Projeto desenvolvido com HTML como parte do Bootcamp Santander 2025 - Frontend.
 
-## Sobre o projeto
+---
 
-O Guia Básico de Educação Financeira é uma página web simples, desenvolvida apenas com HTML, que apresenta os principais conceitos para iniciantes organizarem melhor sua vida financeira.
+## 🌐 Acesse o projeto
 
-O conteúdo foi estruturado de forma clara e acessível, com foco na experiência do usuário e na organização da informação.
+👉 https://leticia-meloo.github.io/guia-educacao-financeira-html/
 
-## Conteúdo abordado
+---
 
-O site apresenta os 4 pilares da educação financeira:
+## 📌 Sobre o projeto
 
-💰 Ganhar dinheiro <br>
-🛒 Gastar melhor <br>
-📈 Investir <br>
-🛡️ Proteger <br>
+Este projeto é um guia básico de educação financeira para iniciantes, com o objetivo de apresentar conceitos fundamentais de forma simples, organizada e acessível.
 
-Além disso, inclui:
+---
 
-- Explicação introdutória sobre educação financeira
-- Lista de ideias de renda extra
-- Indicações de cursos gratuitos
-- Formulário simples de contato
-<hr>
+## 🧠 Conteúdo abordado
 
-## Tecnologias utilizadas
-- HTML5 (estrutura completa da página)
-- Uso de tags semânticas e formatação de conteúdo
+* 💰 Ganhar dinheiro
+* 🛒 Gastar melhor
+* 📈 Investir
+* 🛡️ Proteger
 
-## Objetivo do desafio
-- Praticar a criação de páginas web com HTML puro
-- Utilizar diversas tags de estrutura e formatação
-- Desenvolver organização de conteúdo
-- Criar navegação interna com âncoras
+Também inclui:
 
-## Diferenciais do projeto
-- Navegação interna entre seções
-- Uso de acessibilidade com descrição de imagens
-- Organização clara das informações
-- Aplicação prática de conceitos financeiros
-- Integração com links externos de cursos
-- 
-## 📸 Preview
-<img width="764" height="739" alt="Captura de tela 2026-04-29 202625" src="https://github.com/user-attachments/assets/85e1fb25-5f51-4117-8323-3e7499af5fb1" />
+* Explicação sobre educação financeira
+* Ideias de renda extra
+* Indicação de cursos
+* Formulário simples de contato
 
+---
 
-## Licença
+## 🛠️ Tecnologias utilizadas
 
-Este projeto foi desenvolvido para fins educacionais como parte do Bootcamp Santander.<br>
-Autora: Desenvolvido por Leticia Melo
+* HTML5
 
+---
 
-## Uso de Inteligência Artificial
+## 🎯 Objetivo
 
-Parte do conteúdo textual deste projeto foi elaborada com apoio de ferramentas de Inteligência Artificial, com o objetivo de auxiliar na escrita e organização das ideias.
+* Praticar HTML na construção de páginas web
+* Utilizar diferentes tags e estruturas
+* Criar navegação interna
+* Organizar conteúdo de forma clara
 
-O desenvolvimento do código HTML, estrutura da página e implementação das funcionalidades foram realizados por mim como parte do processo de aprendizagem.
+---
 
-## Créditos
+## ✨ Diferenciais
 
-As imagens e alguns links utilizados neste projeto foram obtidos de fontes públicas e plataformas educacionais, incluindo conteúdos do Santander Open Academy e materiais do Banco Central do Brasil.
+* Navegação interna entre seções
+* Uso de acessibilidade com descrição de imagens
+* Estrutura organizada
+* Conteúdo aplicado ao contexto financeiro
 
-Este projeto tem finalidade exclusivamente educacional, sem fins comerciais.
+---
+
+## 🤖 Uso de Inteligência Artificial
+
+Parte do conteúdo textual foi desenvolvido com apoio de ferramentas de Inteligência Artificial para auxiliar na escrita e organização das ideias.
+
+O código e a estrutura do projeto foram desenvolvidos por mim como parte do aprendizado.
+
+---
+
+## 🖼️ Créditos
+
+As imagens e links utilizados foram obtidos de fontes públicas, incluindo conteúdos educacionais do Santander Open Academy e do Banco Central do Brasil.
+
+Este projeto tem finalidade educacional.
+
+---
+
+## 👩‍💻 Autora
+
+**Leticia Melo**
+
+* GitHub: https://github.com/Leticia-Meloo
+* LinkedIn: https://www.linkedin.com/in/leticia-melo-dev/
