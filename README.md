@@ -7,17 +7,17 @@ Projeto desenvolvido com HTML como parte do Bootcamp Santander 2025 - Frontend.
 
 ## 🌐 Acesse o projeto
 
-👉 https://leticia-meloo.github.io/guia-educacao-financeira-html/
+https://leticia-meloo.github.io/guia-educacao-financeira-html/
 
 ---
 
-## 📌 Sobre o projeto
+##  Sobre o projeto
 
 Este projeto é um guia básico de educação financeira para iniciantes, com o objetivo de apresentar conceitos fundamentais de forma simples, organizada e acessível.
 
 ---
 
-## 🧠 Conteúdo abordado
+##  Conteúdo abordado
 
 * 💰 Ganhar dinheiro
 * 🛒 Gastar melhor
@@ -33,13 +33,13 @@ Também inclui:
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 * HTML5
 
 ---
 
-## 🎯 Objetivo
+##  Objetivo
 
 * Praticar HTML na construção de páginas web
 * Utilizar diferentes tags e estruturas
@@ -48,7 +48,7 @@ Também inclui:
 
 ---
 
-## ✨ Diferenciais
+##  Diferenciais
 
 * Navegação interna entre seções
 * Uso de acessibilidade com descrição de imagens
@@ -57,7 +57,7 @@ Também inclui:
 
 ---
 
-## 🤖 Uso de Inteligência Artificial
+##  Uso de Inteligência Artificial
 
 Parte do conteúdo textual foi desenvolvido com apoio de ferramentas de Inteligência Artificial para auxiliar na escrita e organização das ideias.
 
@@ -65,7 +65,7 @@ O código e a estrutura do projeto foram desenvolvidos por mim como parte do apr
 
 ---
 
-## 🖼️ Créditos
+##  Créditos
 
 As imagens e links utilizados foram obtidos de fontes públicas, incluindo conteúdos educacionais do Santander Open Academy e do Banco Central do Brasil.
 
@@ -73,7 +73,7 @@ Este projeto tem finalidade educacional.
 
 ---
 
-## 👩‍💻 Autora
+##  Autora
 
 **Leticia Melo**
 
